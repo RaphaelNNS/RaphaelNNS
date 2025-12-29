@@ -17,13 +17,6 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Raphael from Rio de Janeiro<br><br>- 📚  I'm currently developing a Kotlin Android app: [GestioTech] (https://github.com/RaphaelNNS/GestioTech_V3)<br
-
-###
 
 <h3 align="left">🛠 Language and tools</h3>
 
